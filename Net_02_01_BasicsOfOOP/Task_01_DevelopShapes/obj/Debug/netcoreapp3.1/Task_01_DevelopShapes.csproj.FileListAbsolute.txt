@@ -1,0 +1,13 @@
+C:\Users\Lenovo\Source\Repos\Net_02_01_BasicsOfOOP\Task_01_DevelopShapes\bin\Debug\netcoreapp3.1\Task_01_DevelopShapes.exe
+C:\Users\Lenovo\Source\Repos\Net_02_01_BasicsOfOOP\Task_01_DevelopShapes\bin\Debug\netcoreapp3.1\Task_01_DevelopShapes.deps.json
+C:\Users\Lenovo\Source\Repos\Net_02_01_BasicsOfOOP\Task_01_DevelopShapes\bin\Debug\netcoreapp3.1\Task_01_DevelopShapes.runtimeconfig.json
+C:\Users\Lenovo\Source\Repos\Net_02_01_BasicsOfOOP\Task_01_DevelopShapes\bin\Debug\netcoreapp3.1\Task_01_DevelopShapes.runtimeconfig.dev.json
+C:\Users\Lenovo\Source\Repos\Net_02_01_BasicsOfOOP\Task_01_DevelopShapes\bin\Debug\netcoreapp3.1\Task_01_DevelopShapes.dll
+C:\Users\Lenovo\Source\Repos\Net_02_01_BasicsOfOOP\Task_01_DevelopShapes\bin\Debug\netcoreapp3.1\Task_01_DevelopShapes.pdb
+C:\Users\Lenovo\Source\Repos\Net_02_01_BasicsOfOOP\Task_01_DevelopShapes\obj\Debug\netcoreapp3.1\Task_01_DevelopShapes.csprojAssemblyReference.cache
+C:\Users\Lenovo\Source\Repos\Net_02_01_BasicsOfOOP\Task_01_DevelopShapes\obj\Debug\netcoreapp3.1\Task_01_DevelopShapes.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Source\Repos\Net_02_01_BasicsOfOOP\Task_01_DevelopShapes\obj\Debug\netcoreapp3.1\Task_01_DevelopShapes.AssemblyInfo.cs
+C:\Users\Lenovo\Source\Repos\Net_02_01_BasicsOfOOP\Task_01_DevelopShapes\obj\Debug\netcoreapp3.1\Task_01_DevelopShapes.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Source\Repos\Net_02_01_BasicsOfOOP\Task_01_DevelopShapes\obj\Debug\netcoreapp3.1\Task_01_DevelopShapes.dll
+C:\Users\Lenovo\Source\Repos\Net_02_01_BasicsOfOOP\Task_01_DevelopShapes\obj\Debug\netcoreapp3.1\Task_01_DevelopShapes.pdb
+C:\Users\Lenovo\Source\Repos\Net_02_01_BasicsOfOOP\Task_01_DevelopShapes\obj\Debug\netcoreapp3.1\Task_01_DevelopShapes.genruntimeconfig.cache
